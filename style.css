@@ -102,8 +102,8 @@ figure{
     width: 100;
 }
 
-@media (max-width: 400px){
-    section{
-        background: red;
+@media (max-width: 400px) {
+    h1{
+        color: red;
     }
 }
